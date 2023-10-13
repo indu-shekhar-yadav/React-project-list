@@ -1,0 +1,212 @@
+.nameindu-shekhar-yadav {
+  margin-block-start: 0;
+  margin-block-end: 10px;
+}
+.reg-no21brs1642 {
+  margin: 0;
+}
+.nameindu-shekhar-yadav-reg-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.nameindu-shekhar-yadav-reg-container {
+  position: relative;
+  letter-spacing: 0.1em;
+  line-height: 28px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  width: 429px;
+  flex-shrink: 0;
+}
+.nameindu-shekhar-yadav-reg-no-wrapper {
+  position: absolute;
+  top: 180px;
+  left: 507px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  color: #096890;
+}
+.task-no {
+  position: relative;
+  text-decoration: none;
+  color: inherit;
+}
+.deploy-link-wrapper,
+.github-link-wrapper,
+.task-no-wrapper {
+  background: linear-gradient(180deg, #4da1ef, rgba(255, 255, 255, 0));
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.task-no-wrapper {
+  flex: 1;
+  padding: var(--padding-3xs) var(--padding-20xl) var(--padding-3xs)
+    var(--padding-21xl);
+}
+.deploy-link-wrapper,
+.github-link-wrapper {
+  width: 263px;
+  padding: var(--padding-3xs) var(--padding-21xl);
+  box-sizing: border-box;
+}
+.deploy-link-wrapper {
+  width: 274px;
+}
+.frame-parent {
+  position: absolute;
+  top: 291px;
+  left: 332px;
+  width: 805px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-poppins);
+}
+.wireframe-1-child {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(77, 161, 239, 0.85) 63.02%,
+    rgba(77, 161, 239, 0)
+  );
+  height: 145px;
+}
+.task-1 {
+  position: relative;
+  font-weight: 600;
+}
+.task-1-wrapper {
+  flex: 1;
+  background-color: var(--color-gainsboro);
+  padding: var(--padding-3xs) var(--padding-20xl) var(--padding-3xs)
+    var(--padding-21xl);
+}
+.frame-container,
+.glink-1-wrapper,
+.task-1-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.glink-1-wrapper {
+  flex: 1;
+  background-color: var(--color-gainsboro);
+  padding: var(--padding-3xs) var(--padding-21xl);
+}
+.frame-container {
+  align-self: stretch;
+  background-color: var(--color-white);
+}
+.frame-group {
+  position: absolute;
+  top: 392px;
+  left: 332px;
+  width: 805px;
+  height: 368px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-poppins);
+}
+.react-js-tasks {
+  position: relative;
+  letter-spacing: 0.1em;
+  line-height: 28px;
+  font-weight: 800;
+}
+.react-js-tasks-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%; 
+}
+.react-js-tasks-wrapper,
+.wireframe-1-inner {
+  width: 548px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.wireframe-1-inner {
+  position: absolute;
+  top: 38px;
+  left: 450px;
+  width: 563px;
+  font-size: var(--font-size-21xl);
+  color: #00255e;
+}
+.wireframe-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 100vh; 
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  justify-content: center; 
+  text-align: center;
+  font-size: 24px;
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.glink-1-wrapper,
+.dlink-1-wrapper {
+display: inline-block;
+background-color: #4da1ef; /* Button background color */
+color: #fff; /* Button text color */
+padding: 10px 20px; /* Adjust padding as needed */
+border: none;
+text-decoration: none;
+border-radius: 5px; /* Add rounded corners for a button-like appearance */
+margin: 5px; /* Add spacing between buttons */
+cursor: pointer;
+transition: background-color 0.3s; /* Add a hover effect */
+font-weight: 600;
+text-align: center;
+}
+
+.glink-1-wrapper:hover,
+.dlink-1-wrapper:hover {
+background-color: #3579b3; /* Change background color on hover */
+}
+
+/* Override the default text color for links */
+.glink-1-wrapper, .dlink-1-wrapper {
+color: #fff; /* Button text color */
+text-decoration: none; /* Remove underlines */
+/* width: 100%;
+display: block; */
+}
+
+/* Ensure the links fill the available width */
+.glink-1-wrapper, .dlink-1-wrapper {
+width: 100%;
+display: block;
+}
+.wireframe-1 {
+width: 1503px; /* Set your desired fixed width */
+margin: 0 auto; /* Center the container horizontally */
+}
+
+
